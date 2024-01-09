@@ -1,3 +1,6 @@
 [submodule "eigen"]
 	path = eigen
 	url = https://gitlab.com/libeigen/eigen
+[submodule "libjpeg-turbo"]
+	path = libjpeg-turbo
+	url = git@github.com:libjpeg-turbo/libjpeg-turbo.git
