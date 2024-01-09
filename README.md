@@ -8,7 +8,7 @@
 
 - libpng [homepage](http://www.libpng.org) [code](http://www.libpng.org/pub/png/libpng.html)
 
-- libspng [homepage](https://libspng.org)
+- libspng [homepage](https://libspng.org) [github](https://github.com/randy408/libspng/)
 
 - libtiff [homepage](http://www.simplesystems.org/libtiff/) [gitlab](https://gitlab.com/libtiff/libtiff)
 
