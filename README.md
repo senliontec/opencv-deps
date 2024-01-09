@@ -15,3 +15,7 @@
 - zlib [homepage](http://www.zlib.net)
 
 - jasper [github](https://github.com/jasper-software/jasper) [homepage](https://ece.engr.uvic.ca/~frodo/jasper/)
+
+- openexr [homepage](http://www.openexr.com) [github](https://github.com/AcademySoftwareFoundation/openexr)
+
+- ffmpeg [homepage](http://ffmpeg.org/)  [github](https://github.com/FFmpeg/FFmpeg)
