@@ -1,3 +1,7 @@
+# 3rd
+
+- flatbuffers [github](https://github.com/google/flatbuffers)
+
 # opencv-deps
 
 - cmake [github](https://github.com/Kitware/CMake) [homepage](https://cmake.org/)
@@ -51,8 +55,6 @@
 - openexr [homepage](http://www.openexr.com) [github](https://github.com/AcademySoftwareFoundation/openexr)
 
 - ffmpeg [homepage](http://ffmpeg.org/) [github](https://github.com/FFmpeg/FFmpeg)
-
-- flatbuffers [github](https://github.com/google/flatbuffers)
 
 ---
 
