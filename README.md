@@ -51,3 +51,17 @@
 - openexr [homepage](http://www.openexr.com) [github](https://github.com/AcademySoftwareFoundation/openexr)
 
 - ffmpeg [homepage](http://ffmpeg.org/)  [github](https://github.com/FFmpeg/FFmpeg)
+
+
+
+
+---
+## 如果出现编译错误
+
+- error: ‘phase_unwrapping’ in namespace ‘cv’ does not name a type
+
+  请参考网页 [Errors when compling the opencv_contrib on Ubuntu20.04 #3518](https://github.com/opencv/opencv_contrib/issues/3518)
+
+  设置:
+  
+   CMAKE_INSTALL_PREFIX=/usr/local
