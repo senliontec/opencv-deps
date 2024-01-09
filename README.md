@@ -1,5 +1,7 @@
 # opencv-deps
 
+- cmake [github](https://github.com/Kitware/CMake) [homepage](https://cmake.org/)
+
 - Eigen3 [gitlab](https://gitlab.com/libeigen/eigen)
 
 - libjpeg (deprecated)  [homepage](http://www.ijg.org)
