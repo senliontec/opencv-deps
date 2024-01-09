@@ -21,7 +21,7 @@
 
    sudo apt-get install -y qt5-default qtcreator 中间有一步安装qt5，如果你有qt了，你可以忽略这一步，但是qt要加入环境变量
 
-   ../bootstrap --qt-gui&& make && sudo make install
+   ../bootstrap --qt-gui && make && sudo make install
 
    ```
 
