@@ -3,6 +3,13 @@
 - cmake [github](https://github.com/Kitware/CMake) [homepage](https://cmake.org/)
 
    ```
+   Uninstall old:
+
+   sudo apt remove cmake
+   
+   sudo apt remove cmake-gui
+
+
    Install cmake:
 
    tar -zxvf cmake-3.22.0-rc1.tar.gz
